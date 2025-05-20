@@ -1,6 +1,7 @@
 -- version
 
 local value = 18
+local note = "its time to update lil bro💀 its ok if u dont"
 
 -- if the version is BELOW that, it should be able to tell the player that its time to update.
 -- i wonder if i can do it.
