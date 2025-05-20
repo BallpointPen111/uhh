@@ -1,8 +1,3 @@
 -- version
 
 local value = 18
-local version = Instance.new("NumberValue")
-local plr = game.Players.LocalPlayer
-
-version.Parent = plr
-version.Value = value
