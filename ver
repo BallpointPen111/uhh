@@ -1,3 +1,6 @@
 -- version
 
 local value = 18
+
+-- if the version is BELOW that, it should be able to tell the player that its time to update.
+-- i wonder if i can do it.
